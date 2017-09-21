@@ -1,7 +1,5 @@
-## Example Summary
-
-This example is intended to be a starting point for new development where
-a fuller set of kernel features and debug capabilities are enabled.
+## Robotics car control
+Main implementation are included in MSP_EXP432P401R.c, buttons.c, screenTask.c and main.c
 
 ## Peripherals Exercised
 
