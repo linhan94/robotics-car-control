@@ -1,2 +1,2 @@
 # robotics-car-control
-This project a robotics car to do wall following and dead reckoning based on PID control
+A robotics car do wall following and dead reckoning based on PID control
